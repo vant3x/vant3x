@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandro Velásquez Molina</h1>
 <h3 align="center">A passionate software developer and vfx artist from Colombia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vant3x" alt="vant3x" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/alevant3x" target="blank"><img src="https://img.shields.io/twitter/follow/alevant3x?logo=twitter&style=for-the-badge" alt="alevant3x" /></a> </p>
 
